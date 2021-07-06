@@ -1756,11 +1756,11 @@ a:active {
   border: none;
 }
 .header-style-3 .octf-main-header {
-  background: #141d38;
+  background: #fff;
 }
 .header-style-3 .main-navigation ul.menu > li > a,
 .header-style-3 .octf-btn-cta .octf-cta-icons i {
-  color: #fff;
+  color: #000;
 }
 .header-style-3 .main-navigation ul.menu > li > a:hover,
 .header-style-3 .octf-btn-cta .octf-cta-icons i:hover {
@@ -7571,7 +7571,7 @@ svg:not(:root) {
 }
 
 .footer-v2 {
-  background-color: #211e3b;
+  background-color: #fff;
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7581,7 +7581,7 @@ svg:not(:root) {
   padding-bottom: 20px;
 }
 .ft-contact-info p {
-  color: #fff;
+  color: #000;
 }
 .ft-contact-info h6 {
   color: #aeaacb;
